@@ -1,7 +1,7 @@
 [gd_scene load_steps=5 format=3 uid="uid://bn2tacoshf6pr"]
 
-[ext_resource type="PackedScene" uid="uid://cdg0mgnblij3s" path="res://player_paddle/player_paddle.tscn" id="1_80nbo"]
-[ext_resource type="PackedScene" uid="uid://clynwfp0tdkhw" path="res://ball/ball.tscn" id="2_e2o6t"]
+[ext_resource type="PackedScene" uid="uid://cdg0mgnblij3s" path="res://player_paddle.tscn" id="1_80nbo"]
+[ext_resource type="PackedScene" uid="uid://clynwfp0tdkhw" path="res://ball.tscn" id="2_e2o6t"]
 [ext_resource type="PackedScene" uid="uid://ieme7cwkq8pa" path="res://enemy_paddle.tscn" id="3_feb5d"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_e2o6t"]
